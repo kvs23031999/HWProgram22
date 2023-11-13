@@ -1,0 +1,3 @@
+interface IOs {
+    void icloud();
+}

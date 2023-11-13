@@ -1,0 +1,3 @@
+interface LinusOS {
+    void openSource();
+}
